@@ -5,9 +5,7 @@ Welcome to the UoPeople Coursework repository! This repository is a collection o
 > "Do hard things, in tear and blood you will succeed." 💪
 
 This repository serves as both a personal archive and a study guide, containing everything from basic programming assignments to advanced projects in Data Science, Software Engineering, Artificial Intelligence, and more.
-
-![UoPeople Coursework](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Ftodayilearned%2Fcomments%2Fhwi4kl%2Ftil_about_university_of_the_people_a_tuitionfree%2F&psig=AOvVaw1wX4jkHCgR1PdVBWwmFa2v&ust=1731817607016000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCx88GB4IkDFQAAAAAdAAAAABAE) <!-- Replace with your image link -->
-
+![UoPeople Coursework](https://github.com/sheshbazzarr/uopeople-cs-coursework/blob/main/uopeople-logo.jpg)
 ## Table of Contents
 1. [First-Year Courses](#first-year-courses)
     - MATH_1201: College Algebra
