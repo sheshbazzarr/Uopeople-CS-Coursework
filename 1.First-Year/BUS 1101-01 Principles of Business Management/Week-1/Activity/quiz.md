@@ -112,3 +112,44 @@ Planning is the function of management that involves setting objectives and dete
  - True  
 - False
 
+
+<details>
+<summary>Click to view solutions</summary>
+
+### **Solutions to Quiz Questions**
+
+**Question 1**  
+Answer: False
+
+**Question 2**  
+Answer: b. To accomplish bigger goals than any that would be possible for the individual working alone
+
+**Question 3**  
+Answer: False
+
+**Question 4**  
+Answer: False
+
+**Question 5**  
+Answer: False
+
+**Question 6**  
+Answer: c. processes to help the organization in the development of strategies.
+
+**Question 7**  
+Answer: True
+
+**Question 8**  
+Answer: True
+
+**Question 9**  
+Answer: False
+
+**Question 10**  
+Answer: True
+
+</details>
+
+---
+
+Happy studying! 
