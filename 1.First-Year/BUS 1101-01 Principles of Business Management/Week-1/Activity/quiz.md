@@ -151,5 +151,139 @@ Answer: True
 </details>
 
 ---
+# Quiz - Principles of Management - Quiz 2
+
+## Question 1
+Triple bottom line refers to the measurement of business performance along economic, social, and organizational dimensions.  
+Select one:
+- True
+- False
+
+---
+
+## Question 2
+The structure of an organization is usually represented:  
+Select one:
+- a. in the job design.
+- b. in the chain of command.
+- c. in the operational plan.
+- d. in the tactical plan.
+
+---
+
+## Question 3
+Environmental scanning is the act of analyzing the critical external contingencies facing an organization in terms of:  
+Select one:
+- a. economic conditions, employees capabilities, and stakeholders.
+- b. economic conditions, competitors, and customers.
+- c. competitors, and economic and financial capabilities.
+- d. stakeholders, community conditions, and customers.
+
+---
+
+## Question 4
+The process of authorizing an individual to think, behave, take action, and control work and decision making in autonomous ways is known as:  
+Select one:
+- a. Controlling
+- b. Directing
+- c. Empowering
+- d. Leading
+
+---
+
+## Question 5
+General managers set specific goals for their own departments and see that the goals are met.  
+Select one:
+- True
+- False
+
+---
+
+## Question 6
+Teamwork is a common theme of organizational citizenship behavior.  
+Select one:
+- True
+- False
+
+---
+
+## Question 7
+Effective controlling requires the existence of plans,  
+Select one:
+- a. since planning provides the necessary performance standards or objectives.
+- b. since understanding the mission of the organization requires strategic plan.
+- c. since control techniques are budget and performance audits.
+- d. since managers must show compliance with company policies.
+
+---
+
+## Question 8
+Self-development, individual initiative, and organizational loyalty are:  
+Select one:
+- a. Necessities in principles of behavior in organizations.
+- b. Examples of organizational citizenship behaviors.
+- c. In-role performance standards.
+- d. CSR standards for individual performance.
+
+---
+
+## Question 9
+A general manager is someone who is responsible for managing:  
+Select one:
+- a. an identifiable revenue-producing unit.
+- b. a sub-group of a particular function or team comprised of members from different parts of the organization.
+- c. a function that creates indirect inputs, such as finance and accounting.
+- d. an area such as accounting and marketing.
+
+---
+
+## Question 10
+A manager must understand the compatibility of individual and group performance with respect to:  
+Select one:
+- a. Goals and objectives.
+- b. Goals and incentives.
+- c. Objectives and strategy.
+- d. Incentives and strategy.
+
+---
+
+<details>
+<summary>Click to view solutions</summary>
+
+### **Solutions to Quiz Questions**
+
+**Question 1**  
+Answer: False
+
+**Question 2**  
+Answer: b. in the chain of command.
+
+**Question 3**  
+Answer: b. economic conditions, competitors, and customers.
+
+**Question 4**  
+Answer: c. Empowering
+
+**Question 5**  
+Answer: False
+
+**Question 6**  
+Answer: False
+
+**Question 7**  
+Answer: a. since planning provides the necessary performance standards or objectives.
+
+**Question 8**  
+Answer: b. Examples of organizational citizenship behaviors.
+
+**Question 9**  
+Answer: a. an identifiable revenue-producing unit.
+
+**Question 10**  
+Answer: a. Goals and objectives.
+
+</details>
+
+---
 
 Happy studying! 
